@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there, I'm Gabe! 👋
 
-<!--
-**Blazorthecat/Blazorthecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well, actually my name is Gabriel Guimarães — I'm 24, born and raised in Minas Gerais, Brazil 💚💛💙.
 
-Here are some ideas to get you started:
+I'm currently studying **Systems Analysis and Development** at Descomplica 🎓, and working as a **QA intern** at VendorSmart 🧪.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not _glued to my screen_ for work or studies, I'm usually _glued to it_ for fun — gaming 🎮. But when I actually step away from the screen, I enjoy spending time with my pets 🐾, taking care of my plants 🌱, cooking some desserts 🍰, reading mangas and books 📚, or catching up on animes 🍿.
+
+---
+
+### Find me on:
+
+<p>
+  <a href="https://www.instagram.com/seu_usuario/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://steamcommunity.com/id/seu_usuario/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+</p>
