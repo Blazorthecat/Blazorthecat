@@ -11,7 +11,7 @@ When I’m not _glued to my screen_ for work or studies, I'm usually _glued to i
 ### Find me on:
 
 <p>
-  <a href="https://www.instagram.com/Blazorthecat/" target="_blank">
+  <a href="https://www.instagram.com/Blazor.thecat/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://steamcommunity.com/id/Blazorthecat/" target="_blank">
