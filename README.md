@@ -2,7 +2,7 @@
 
 Well, actually my name is Gabriel Guimarães — I'm 24, born and raised in Minas Gerais, Brazil 💚💛💙.
 
-I'm currently studying **Systems Analysis and Development** at Descomplica 🎓, and working as a **QA intern** at VendorSmart 🧪.
+I'm currently studying **Systems Analysis and Development** at Descomplica 🎓, and working as a **QA Engineer Junior** at VendorSmart 🧪.
 
 When I’m not _glued to my screen_ for work or studies, I'm usually _glued to it_ for fun — gaming 🎮. But when I actually step away from the screen, I enjoy spending time with my pets 🐾, taking care of my plants 🌱, cooking some desserts 🍰, reading mangas and books 📚, or catching up on animes 🍿.
 
